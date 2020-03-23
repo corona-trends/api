@@ -3,7 +3,7 @@
 ## Endpoints
 |  GET Request  | Output  |
 | ------------ | ------------ |
-|  https://www.corona-trends.com/api/all | Returns total cases, recovery and deaths. |
+|  https://www.corona-trends.com/api/all | Returns total cases, recovery and deaths |
 |  https://www.corona-trends.com/api/countries | Returns data of all countries that has COVID-19 |
 |  https://www.corona-trends.com/api/countries?sort={parameter} | Returns data of each country sorted by the parameter |
 |  https://www.corona-trends.com/api/countries/{country-name} | Returns data of a specific country |
