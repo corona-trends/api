@@ -1,6 +1,6 @@
 # Open COVID-19 API Documentaion
 
-# Endpoints
+## Endpoints
 |  GET Request  | Output  |
 | ------------ | ------------ |
 |  https://www.corona-trends.com/api/all | Returns all total cases, recovery, and deaths. |
