@@ -1,5 +1,4 @@
-# API Documentaion
-Open API for COVID-19 data
+# Open COVID-19 API Documentaion
 
 # Endpoints
 |  GET Request  | Output  |
